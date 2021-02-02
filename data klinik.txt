@@ -1,0 +1,19 @@
+Dan berikut beberapa fitur yang ada pada source code sistem informasi pelayanan klinik:
+
+1. Manajemen Pengguna
+2. Manajemen Data Pegawai
+3. Manajemen Data Paramedis
+4. Manajemen Data Jabatan
+5. Manajemen Data Bidang
+6. Manajemen Data Poli
+7. Manajemen Data Dokter
+8. Manajemen Jadwal Praktik Dokter
+9. Manajemen Data Pasien
+10.Manajemen Data Pendaftaran
+11.Manajemen Data Diagnosa
+12.Manajemen Data Tindakan
+13.Manajemen Data Obat
+14.Manajemen Data Supplier
+15.Manajemen Data Tindakan Operasi
+16.Manajemen Data Tindakan Berobat
+17.Kondisikan sesuai dengan kebutuhan.

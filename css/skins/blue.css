@@ -1,0 +1,44 @@
+.btn-primary, 
+.section-14-box .date,
+.section-10-background,
+.footer-top .submit-bgcolor,
+.footer-bottom ul.social-buttons li a,
+.dropdown-menu > li > a:hover,
+.inner-title,
+.section-11-box-icon-background,
+.logo-text samp,
+.top-header,
+.demo_changer .demo-icon{
+	background: #00aef0;
+	background-color: #00aef0!important;
+}
+.logo-text span,
+.navbar-menu .navbar-nav > li > a:hover,
+.navbar-menu .navbar-nav > li > a:active,
+.navbar-menu .navbar-nav>li.active > a,
+.navbar-menu .navbar-nav > .open > a,
+.navbar-menu .navbar-nav > .open > a:focus,
+.navbar-menu .navbar-nav > .open > a:hover,
+.section-1-box-icon-background i,
+.section-4-box-icon-cont i,
+.portfolioFilter a.current,
+.portfolioFilter,
+.section-20-box-icon-cont i,
+.section19 .section19-404 h1,
+.section16 .address h4,
+.btn-secondary{
+	color: #00aef0!important;
+}
+.btn-primary,
+.section-1-box-icon-background,
+.section-2-box-left{
+    border-color: #00aef0;
+}
+.btn-primary:hover,
+.footer-top .submit-bgcolor:hover,
+.footer-bottom ul.social-buttons li a:hover{
+    background-color: #0393ca;
+}
+.btn-primary:hover {
+    border-color: #0393ca;
+}
